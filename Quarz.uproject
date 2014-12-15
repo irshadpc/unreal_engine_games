@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0CD4D38C-48A4-E639-844F-C5A0DC197676}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Quarz",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
